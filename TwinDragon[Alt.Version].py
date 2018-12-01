@@ -51,4 +51,4 @@ while again == 'Y':
             print('End of the game. Thank you and come back!')
             break
         else:
-            print('Invalid Option!')
+            print()
